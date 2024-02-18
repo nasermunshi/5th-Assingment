@@ -2,7 +2,7 @@
  margin-top: 50px; 
  margin-right: 120px;
  margin-left: 120px;
- margin-bottom: 50px;                  
+                 
 }
 .nav-container{                  
 justify-content: space-between;
@@ -16,8 +16,12 @@ justify-content: space-between;
 }
 .Bus{
 background-color: rgba(29, 209, 0, 0.1);
- width: 100px; 
- height: 35px;                                   
+ border-radius: 10px;
+ width: 120px; 
+ height: 40px;                                   
+}
+.bus2{
+ color:green;                
 }
 .main-content{  
 height: 600px;                    
@@ -38,11 +42,48 @@ color: white;
  text-align: center; 
  color: white;                  
 }
-.Buy-Tickets{                
+.Buy-Tickets{                                    
  font-weight: bold;                 
 background-color: rgb(29, 209, 0); 
 width: 150px;
 height: 50px;
 margin-top: 20px;
-margin-left: 500px;               
+margin-left: 500px;
+border-radius: 12px;               
+}
+.Best{
+ text-align: center; 
+ font: bold;                  
+}
+.discount-contaent{
+gap: 180px;                    
+ display: flex;                   
+}
+.discount{ 
+padding-top: 30px;                
+ padding-left: 80px;                   
+width: 400px;
+height: 180px;
+ background-color: rgb(255, 191, 15);                   
+ border-radius: 20px;                   
+display: flex;
+gap: 100px;                    
+}
+.cuple{
+background-color: rgb(247, 140, 156); 
+padding-top: 30px;                
+ padding-left: 80px;                   
+width: 400px;
+height: 180px;                
+ border-radius: 20px;                   
+display: flex;
+gap: 100px;                    
+}
+.offer-btn{
+margin-top: 20px;  
+margin-left: 480px;               
+border-radius: 10px;                    
+ width: 180px ; 
+ height: 50px; 
+ color: rgb(29, 209, 0);                 
 }
