@@ -56,7 +56,7 @@ border-radius: 12px;
  font: bold;                  
 }
 .discount-contaent{
-gap: 180px;                    
+gap: 200px;                    
  display: flex;                   
 }
 .discount{ 
@@ -86,4 +86,106 @@ border-radius: 10px;
  width: 180px ; 
  height: 50px; 
  color: rgb(29, 209, 0);                 
+}
+.batton-text{
+ margin-top: 100px;                   
+text-align: center;                    
+}
+.Selects{
+display: flex;                   
+ }
+ .bus-logo{
+ height: 50px;                   
+ }
+.Greenline{
+ padding-left: 10px;                   
+}
+.Selects-left{
+ margin-top: 50px;                   
+justify-content: space-between;                  
+ display: flex;
+ height: 80px;
+ width: 800px;
+ border-radius: 2px; 
+ gap: 10px;                  
+}
+.btn-text{
+ font-size: larger;
+ font: bold;
+ color: green;                  
+}
+.button-act{
+ border-radius: 8px;                   
+ height: 40px;  
+ width: 150px; 
+ background-color: rgba(29, 209, 0, 0.1);               
+}
+.Dhaka{
+ font: bold;                   
+ display: flex; 
+ justify-content: space-between;
+
+}
+.dhaka-to{                 
+height: 80px;
+ width: 750px; 
+                 
+}
+.btn-three{
+border-radius: 5px;                    
+height: 30px;   
+width: 230px;                 
+}
+.set-img{
+padding-left: 35px;                  
+}
+.set-price{
+margin-top: -200px;                 
+ margin-left: 920px;                                   
+height: 150px;
+width: 130px;
+}
+.btn-container{
+ width: 650px;
+ /* background-color: aqua;                    */
+}
+.btn-container{
+ display: flex; 
+ justify-content: space-between;                  
+}
+.Selected{
+ color: rgb(29, 209, 0);                   
+}
+.add-btn{
+ display: flex;                   
+}
+.button-click{
+ margin-top: 20px;                   
+ display: flex; 
+ gap: 30px;                  
+}
+.button-one{
+ border-radius: 12px;                   
+ width: 100px;
+height: 50px;                   
+}
+.main-section{                    
+ margin-top: 120px;                 
+}
+/* secount section */
+.Your-Seat{
+background-color: aqua;                    
+ height: 830px; 
+ Width :433px                                   
+}
+.Seat{
+ justify-content: space-between;                   
+ display: flex;                   
+}
+.Have{
+ height: 46px; 
+Width:369px                   
+}
+.Total{
+ font: bold;                   
 }
